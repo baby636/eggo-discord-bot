@@ -9,7 +9,7 @@
     "dotenv": "^8.2.0",
     "erlpack": "discordapp/erlpack",
     "honeycomb-beeline": "^2.1.1",
-    "libhoney": "^2.2.0",
+    "libhoney": "^2.3.3",
     "utf-8-validate": "^5.0.2"
   }
 }
