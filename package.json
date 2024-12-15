@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "bufferutil": "^4.0.1",
-    "discord.js": "^12.2.0",
+    "discord.js": "^14.15.1",
     "dotenv": "^8.2.0",
     "erlpack": "discordapp/erlpack",
     "honeycomb-beeline": "^2.1.1",
